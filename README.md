@@ -11,7 +11,10 @@ NLP practical course at I. Kant BFU.
 
 [Лекция 2025.12.08, часть 1](https://github.com/klyshinsky/BFU_NLP_2025/blob/main/Lecture_3_clustering.ipynb) - Кластеризация: k-средних, иерархическая, DBScan.
 
-[Лекция 2025.12.08, часть 2](https://github.com/klyshinsky/BFU_NLP_2025/blob/main/Lecture_4_Classification.ipynb) - Классификация: k ближайших соседей, линейная регрессия.
+[Лекция 2025.12.08, часть 2](https://github.com/klyshinsky/BFU_NLP_2025/blob/main/Lecture_4_Classification.ipynb) - Классификация: k ближайших соседей.
 
+[Лекция 2025.12.15, часть 1](https://github.com/klyshinsky/BFU_NLP_2025/blob/main/Lecture_4_Classification.ipynb) - Классификация: линейная регрессия.
+
+[Лекция 2025.12.15, часть 2](https://github.com/klyshinsky/BFU_NLP_2025/blob/main/Lecture_5_DecisionTrees.ipynb) - Классификация: деревья принятия решений, случайный лес.
 
 
